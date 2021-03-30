@@ -4,7 +4,7 @@
 
 ||機材名|個数|備考|
 |---|---|---|---|
-|[　]|ATEM Television Studio HD (SWer)|1||
+|[　]|ATEM Television Studio HD (SWer)|2||
 |[　]|HyperDeck Studio Mini (REC)|1||
 |[　]|BlackMagic SmartView Duo (2画面モニタ)|1||
 |[　]|BlackMagic Audio Monitor (スピーカー)|1||
